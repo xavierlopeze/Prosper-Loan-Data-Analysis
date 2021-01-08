@@ -36,9 +36,11 @@ My hypothesis was that on the 2008 economic crisis there would be more loan defa
 
 ## Key Insights for Presentation
 
-> We can see the impact of the economic crisis on the publication of listings.
+> We strat recalling the importance of preventing crisis by seein the impact that the economic crisis had on 2018 (count of listings).
+> Following we evaluate the health of our listings comparing our Current listings to the successfully completed listings, we count the number of listings on borrower salary and borrower debt to income ratio.
 
 > The current listings, comparetd to the completed listings have a higher borrower salary and at the same time a higher debt to income ratio.
+> FInally we conclude that the increase on borrower debt to income ratio does not compromise the health of the listing since it is a small increase enough not to affect the listing keeping it on the A-D Rating Range keeping reasonable interest rates without having the best or the worse interest reate.
 
 
 
