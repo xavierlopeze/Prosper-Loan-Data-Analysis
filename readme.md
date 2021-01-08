@@ -15,8 +15,10 @@ The dataset analyzed ([data/prosperLoanData.csv](https://github.com/xavierlopeze
 
 ## Summary of Findings
 
-Initially I focused on studying "Defaulted" loans, however in this dataset most of the loans are in status "Current". So sometimes it has been useful to drop those.
-My hypothesis was that on the 2018 economic crysis there would be more loan defaults, that is simply not the case, the general path for listings was increasing until 2018, then it stopped due to the crysis and from 2019 gradually increased until 2014 (which is the last date we have data). It is not that counter-intuitive since the date we are looking at is the date the listing was created, so if a listing becomes Default during the economic crisis it will compute on the year the listing was created and not the year it defaulted. Sadly for the defaulted loans we lack historical infromation of when did the loan became daulted.
+>Initially I focused on studying "Defaulted" loans, however in this dataset most of the loans are in status "Current". So sometimes it has been useful to drop those.
+My hypothesis was that on the 2018 economic crisis there would be more loan defaults compared to the other years, that is simply not the case, the general path for listings was increasing until 2018, then it stopped due to the crysis and from 2019 gradually increased until 2014 (which is the last date we have data). It is not that counter-intuitive since the date we are looking at is the date the listing was created, so if a listing becomes Default during the economic crisis it will compute on the year the listing was created and not the year it defaulted. Sadly for the defaulted loans we lack historical infromation of when did the loan became daulted.
+
+> Most of the listings in status "Completed" (and not defualted) are hold by borrowers in a salary range between 25k-50k, however most of the listings in "Current" are in slightly higher borrower salary range: 50k-75k.
 
 ## Key Insights for Presentation
 
