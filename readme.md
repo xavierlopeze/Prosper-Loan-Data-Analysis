@@ -36,7 +36,10 @@ My hypothesis was that on the 2008 economic crisis there would be more loan defa
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> We can see the impact of the economic crisis on the publication of listings.
+
+> The current listings, comparetd to the completed listings have a higher borrower salary and at the same time a higher debt to income ratio.
+
 
 
 ## Implementation
