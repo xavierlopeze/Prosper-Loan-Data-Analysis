@@ -20,6 +20,20 @@ My hypothesis was that on the 2018 economic crisis there would be more loan defa
 
 > Most of the listings in status "Completed" (and not defualted) are hold by borrowers in a salary range between 25k-50k, however most of the listings in "Current" are in slightly higher borrower salary range: 50k-75k.
 
+>From the scatter plots we see a lot of noise, the strongest correlation that we see was expected between BorrwerAPR and LenderYield, it makes sense that the higher rate a borrower pays, a higher rate the lender recives indeed. 
+
+>Another correlation far less strong is inversely proportional between borrower salary and LenderYield, in conclusion high salary borrowers tend to pay lower interest rates.
+
+>The metrics of Occupation, Employment Stand Emplyment duration are very noisy and with too many non informative classes, further processing should be done in order to take a singificative conclusion.
+
+> Most of the Defaulted loans had the lowest credit grade (HR), which makes sense, also the best credit grades (A, AA) had the lowest defaults, however there was not a significative difference on loan defaults in the mid-range credit rates (B,C,D,E), in fact there were more loan defaults rated in C than in E which is counter intuitive.
+
+> Most of the loans have borrowers with a Debt to income ratio between 0.1 and 0.3. Most of the Completed loans were in the [0.1,0,2] range, most of the Current loans are in the [0.2,0.3] range.
+
+>Low debt to income ratios tend to have better loans (with lower interest rates (borrwer and lender yields)), and lower the loan rating rates are the lower the credit grade is
+
+>The lowest debt to income ratios have the best ratings (AA) as expected, and unexpectedly at the same time many of the lowest debt to income ratios borrowers recive loans with the worse ratings (HR)
+
 ## Key Insights for Presentation
 
 > Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
