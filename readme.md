@@ -11,12 +11,12 @@ Borrowers apply online for a fixed-rate, fixed-term loan between 2.000 and  40.0
 Individuals and institutions can invest in the loans and earn attractive returns.  
 Prosper handles all loan servicing on behalf of the matched borrowers and investors.
 
-The dataset analyzed ([data/prosperLoanData.csv](https://github.com/xavierlopeze/Prosper-Loan-Data-Analysis/blob/master/data/prosperLoanData.csv)) contains data from Prosper's listings, the definition of the fields can be found at [data/prosperLoanData_variable_definition.csv](https://github.com/xavierlopeze/Prosper-Loan-Data-Analysis/blob/master/data/prosperLoanData_variable_definition.csv)
+The dataset analyzed ([data/prosperLoanData.csv](https://github.com/xavierlopeze/Prosper-Loan-Data-Analysis/blob/master/data/prosperLoanData.csv)) contains data from Prosper's listings, the definition of the fields can be found at [data/prosperLoanData_variable_definition.csv](https://github.com/xavierlopeze/Prosper-Loan-Data-Analysis/blob/master/data/prosperLoanData_variable_definition.csv).
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
-
+Initially I focused on studying "Defaulted" loans, however in this dataset most of the loans are in status "Current". So sometimes it has been useful to drop those.
+My hypothesis was that on the 2018 economic crysis there would be more loan defaults, that is simply not the case, the general path for listings was increasing until 2018, then it stopped due to the crysis and from 2019 gradually increased until 2014 (which is the last date we have data). It is not that counter-intuitive since the date we are looking at is the date the listing was created, so if a listing becomes Default during the economic crisis it will compute on the year the listing was created and not the year it defaulted. Sadly for the defaulted loans we lack historical infromation of when did the loan became daulted.
 
 ## Key Insights for Presentation
 
